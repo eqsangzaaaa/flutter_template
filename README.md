@@ -1,6 +1,7 @@
 # flutter_template
 
 A new Flutter project.
+use flutter_bloc Clean Architecture
 
 ## Getting Started
 
